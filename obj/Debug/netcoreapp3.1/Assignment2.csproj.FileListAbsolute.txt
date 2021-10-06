@@ -12,3 +12,5 @@ C:\Users\Admin\source\repos\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.cspr
 C:\Users\Admin\source\repos\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.dll
 C:\Users\Admin\source\repos\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.pdb
 C:\Users\Admin\source\repos\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Assignment2\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Admin\source\repos\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.csproj.CopyComplete

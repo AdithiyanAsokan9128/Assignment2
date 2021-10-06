@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Assignment2
 {
-    class Rectangle
+    public class Rectangle
     {
         private int length;
         private int width;
